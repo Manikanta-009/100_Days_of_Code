@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-1%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -12,9 +12,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 
 ## Progress
 
-- Day 1: Problem description and solution (link)
-- Day 2: Problem description and solution (link)
-- ...
+- Day 1: Text Analysis Challenge
 
 ## Why This Challenge?
 
