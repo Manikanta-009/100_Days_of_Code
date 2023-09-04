@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-4%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -15,6 +15,8 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 1: Text Analysis Challenge - https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day1_Text_Analysis.py
 - Day 2: Reorganize String Challenge - https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day2_Reorganize_String.py
 - Day 3: Expression Evaluation Challenge - https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day3_Expression_Evaluator.py
+- Day 4: Spiral Path Matrix Challenge - https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day4_Spiral_Path_Matrix_Challenge.py
+
 
 ## Why This Challenge?
 
