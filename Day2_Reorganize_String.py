@@ -4,7 +4,11 @@
 
 ### Challenge Description
 """
-Given a string 's', reorganize the characters such that no two adjacent characters are the same.
+Problem Description: Reorganize String
+
+You are given a string 's' consisting of lowercase English letters. 
+Your task is to reorganize the characters in the string in such a way that no two adjacent characters are the same. 
+If it is not possible to reorganize the string to meet this condition, return an empty string.
 
 Input:
 - A string 's' containing lowercase English letters.
