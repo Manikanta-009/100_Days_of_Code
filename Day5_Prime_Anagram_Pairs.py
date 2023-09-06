@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 5: Prime Anagram Pairs Challenge Solution
+## Day 5: Prime Anagram Pairs Challenge
 
 ### Challenge Description
 """
