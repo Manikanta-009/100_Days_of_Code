@@ -18,6 +18,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 4: [Spiral Path Matrix Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day4_Spiral_Path_Matrix_Challenge.py)
 - Day 5: [Prime Anagram Pairs Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day5_Prime_Anagram_Pairs.py)
 - Day 6: [Contact Management System Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day6_Contact_Book.py)
+- Day 7: [Is_balanced_parentheses Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day7_is_balanced_parentheses.py)
 
 ## Why This Challenge?
 
