@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-5%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-8%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -19,6 +19,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 5: [Prime Anagram Pairs Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day5_Prime_Anagram_Pairs.py)
 - Day 6: [Contact Management System Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day6_Contact_Book.py)
 - Day 7: [Is_balanced_parentheses Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day7_is_balanced_parentheses.py)
+- Day 8: [Twisted Palindrome Checker](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Day8_Twisted_Palindrome _Checker.py)
 
 ## Why This Challenge?
 
