@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 8: find_last_served_person Challenge
+## Day 10: find_last_served_person Challenge
 
 ### Challenge Description
 """
@@ -48,9 +48,9 @@ def main():
     meatball_weights = [8, 9, 3, 5]
     print("Initial Meatballs for Person 1:", meatball_weights)
     
-    num_participants = 4
+    num_participants = len(meatball_weights)
     daily_quantity = 2
-
+    print(f"Quantity reduced on each step: {daily_quantity} kgs")
     last_served_person = find_last_served_person(meatball_weights, num_participants, daily_quantity)
     print("\nIndex of the Last Served Person:", last_served_person)
 
