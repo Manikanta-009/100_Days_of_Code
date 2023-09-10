@@ -14,7 +14,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 
 - Day 1: [Text Analysis Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day1_Text_Analysis.py)
 - Day 2: [Reorganize String Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day2_Reorganize_String.py)
-- Day 3: [Expression Evaluation Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Random_Day1_to_Day10/Day3_Expression_Evaluator.py)
+- Day 3: [Expression Evaluation Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day3_Expression_Evaluator.py)
 - Day 4: [Spiral Path Matrix Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day4_Spiral_Path_Matrix_Challenge.py)
 - Day 5: [Prime Anagram Pairs Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day5_Prime_Anagram_Pairs.py)
 - Day 6: [Contact Management System Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day6_Contact_Book.py)
