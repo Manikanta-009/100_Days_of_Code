@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-10%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-11%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -22,6 +22,8 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 8: [Twisted Palindrome Checker](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day8_Twisted_Palindrome_Checker.py)
 - Day 9: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day9_contiguous_subarray.py)
 - Day 10: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day10_find_last_served_person.py)
+- Day 10: [Two Sum]()
+
 ## Why This Challenge?
 
 I believe that consistent practice is the key to improvement. By taking on this challenge, I aim to challenge myself, expand my knowledge, and become a better problem solver.

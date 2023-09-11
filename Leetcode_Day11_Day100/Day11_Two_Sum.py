@@ -1,3 +1,7 @@
+# 100 Days of Code Challenge
+
+## Day 11: Two Sum (Letcode)
+
 from typing import List
 
 class Solution:
@@ -24,3 +28,12 @@ sum = Solution()
 # Call the twoSum method to find the indices of two numbers that add up to the target
 result = sum.twoSum([2, 7, 11, 15], 9)
 print(result)  # Output should be [0, 1] since nums[0] + nums[1] = 2 + 7 = 9
+
+
+"""
+Connect with me on 
+[LinkedIn](https://www.linkedin.com/in/manikanta-nallam/) 
+for more coding challenges, updates on my 100 days of code journey.
+
+Stay tuned for tomorrow's coding challenge. Happy coding!
+"""
