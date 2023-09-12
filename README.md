@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-11%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-12%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -22,7 +22,11 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 8: [Twisted Palindrome Checker](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day8_Twisted_Palindrome_Checker.py)
 - Day 9: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day9_contiguous_subarray.py)
 - Day 10: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day10_find_last_served_person.py)
-- Day 10: [Two Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day11_Two_Sum.py)
+
+[Leetcode Chalenges](https://leetcode.com/)
+- Day 11: [Two Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day11_Two_Sum.py)
+- Day 12: [Best Time to Buy and Sell Stock](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day12_Best_Time_to_Buy_and_Sell_Stock.py)
+
 
 ## Why This Challenge?
 
