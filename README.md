@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-12%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-13%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -12,6 +12,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 
 ## Progress
 
+[Random Challenges](https://github.com/Manikanta-009/100_Days_of_Code/tree/Challenge/Random_Day1_to_Day10)
 - Day 1: [Text Analysis Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day1_Text_Analysis.py)
 - Day 2: [Reorganize String Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day2_Reorganize_String.py)
 - Day 3: [Expression Evaluation Challenge](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day3_Expression_Evaluator.py)
@@ -23,10 +24,10 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 9: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day9_contiguous_subarray.py)
 - Day 10: [Contiguous Subarray with Largest Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Random_Day1_to_Day10/Day10_find_last_served_person.py)
 
-[Leetcode Chalenges](https://leetcode.com/)
+[Leetcode Chalenges](https://github.com/Manikanta-009/100_Days_of_Code/tree/Challenge/Leetcode_Day11_Day100)
 - Day 11: [Two Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day11_Two_Sum.py)
 - Day 12: [Best Time to Buy and Sell Stock](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day12_Best_Time_to_Buy_and_Sell_Stock.py)
-
+- Day 13: [Contains Duplicate](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day13_Contains_Duplicate.py)
 
 ## Why This Challenge?
 
