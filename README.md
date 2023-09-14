@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-13%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-14%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -28,6 +28,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 11: [Two Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day11_Two_Sum.py)
 - Day 12: [Best Time to Buy and Sell Stock](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day12_Best_Time_to_Buy_and_Sell_Stock.py)
 - Day 13: [Contains Duplicate](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day13_Contains_Duplicate.py)
+- Day 14: [Product of Array Except Self](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day14_Product_Except_Self.py)
 
 ## Why This Challenge?
 

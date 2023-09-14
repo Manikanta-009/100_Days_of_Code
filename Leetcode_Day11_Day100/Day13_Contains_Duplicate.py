@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 13: Contains Duplicate (Letcode)
+## Day 13: Contains Duplicate (Leetcode)
 from typing import List
 
 class Solution:
