@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 11: Two Sum (Letcode)
+## Day 11: Two Sum (Leetcode)
 
 from typing import List
 

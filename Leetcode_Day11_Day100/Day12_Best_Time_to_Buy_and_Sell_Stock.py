@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 12: Best Time to Buy and Sell Stock (Letcode)
+## Day 12: Best Time to Buy and Sell Stock (Leetcode)
 
 from typing import List
 
