@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 15: Valid Mountain Array (Leetcode)
+## Day 16: Valid Mountain Array (Leetcode)
 
 from typing import List
 
