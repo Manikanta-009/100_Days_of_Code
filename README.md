@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-16%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-17%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -31,6 +31,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 14: [Product of Array Except Self](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day14_Product_Except_Self.py)
 - Day 15: [Non-decreasing Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day15_Non_Decreasing_Array.py)
 - Day 16: [Valid Mountain Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day16_Valid_Mountain.py)
+- Day 17: [Max Product Subarray](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day17_Max_Product_Subarray.py) 
 
 ## Why This Challenge?
 
