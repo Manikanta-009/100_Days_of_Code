@@ -32,6 +32,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 15: [Non-decreasing Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day15_Non_Decreasing_Array.py)
 - Day 16: [Valid Mountain Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day16_Valid_Mountain.py)
 - Day 17: [Max Product Subarray](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day17_Max_Product_Subarray.py) 
+- Day 18: [Find Minimum in Rotated Sorted Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day18_min_in_rorated_sorted_array.py) 
 
 ## Why This Challenge?
 
