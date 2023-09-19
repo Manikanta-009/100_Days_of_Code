@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-17%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-19%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -33,6 +33,8 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 16: [Valid Mountain Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day16_Valid_Mountain.py)
 - Day 17: [Max Product Subarray](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day17_Max_Product_Subarray.py) 
 - Day 18: [Find Minimum in Rotated Sorted Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day18_min_in_rorated_sorted_array.py) 
+- Day 19: [Search in Rotated Sorted Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day19_search_in_rotated_sorted_array.py)
+
 
 ## Why This Challenge?
 
