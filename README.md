@@ -34,7 +34,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 17: [Max Product Subarray](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day17_Max_Product_Subarray.py) 
 - Day 18: [Find Minimum in Rotated Sorted Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day18_min_in_rorated_sorted_array.py) 
 - Day 19: [Search in Rotated Sorted Array](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day19_search_in_rotated_sorted_array.py)
-
+- Day 20: [3 Sum](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day20_Three_Sum.py)
 
 ## Why This Challenge?
 
