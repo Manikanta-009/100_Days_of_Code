@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 21: Subarray Sum Equals K (Leetcode)
+## Day 22: Subarray Sum Equals K (Leetcode)
 
 from typing import List
 
