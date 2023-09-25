@@ -1,6 +1,6 @@
 # 100 Days of Daily Problem-Solving
 
-[![Progress](https://img.shields.io/badge/Progress-24%25-brightgreen)]()
+[![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)]()
 
 Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'm committing to solving one problem every day to enhance my skills and embrace continuous learning.
 
@@ -39,6 +39,7 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 22: [Subarray Sum Equals K](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day22_Subarray_sum_equal_to_k.py)
 - Day 23: [Set Matrix Zeroes](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day23_Set_Matrix_to_Zeros.py)
 - Day 24: [Rotate Image](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day24_Rotate_Image.py)
+- Day 25: [Valid Anagram](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day25_Valid_Anagram.py)
 
 
 ## Why This Challenge?
