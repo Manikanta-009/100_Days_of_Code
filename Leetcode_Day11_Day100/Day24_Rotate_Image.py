@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 23: Rotate Image (Leetcode)
+## Day 24: Rotate Image (Leetcode)
 
 from typing import List
 
