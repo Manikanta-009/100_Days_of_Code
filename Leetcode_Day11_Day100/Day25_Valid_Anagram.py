@@ -1,6 +1,6 @@
 # 100 Days of Code Challenge
 
-## Day 23: Valid Anagram (Leetcode)
+## Day 25: Valid Anagram (Leetcode)
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
