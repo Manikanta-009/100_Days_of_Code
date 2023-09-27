@@ -40,8 +40,12 @@ Welcome to my 100-day problem-solving challenge! 🚀 Over the next 100 days, I'
 - Day 23: [Set Matrix Zeroes](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day23_Set_Matrix_to_Zeros.py)
 - Day 24: [Rotate Image](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day24_Rotate_Image.py)
 - Day 25: [Valid Anagram](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day25_Valid_Anagram.py)
-- Day 26: [Group Anagrams](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/)
+- Day 26: [Group Anagrams](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day26_Group_Anagrams.py)
+- Day 27: [Longest Palindromic Substring](https://github.com/Manikanta-009/100_Days_of_Code/blob/main/Leetcode_Day11_Day100/Day27_Longest_Palindromic_substring.py)
 
+
+
+Day27_Longest_Palindromic_substring.py
 ## Why This Challenge?
 
 I believe that consistent practice is the key to improvement. By taking on this challenge, I aim to challenge myself, expand my knowledge, and become a better problem solver.
